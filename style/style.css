@@ -80,6 +80,10 @@ header img {
     padding-top: 65px;
 }
 
+.skills p{
+    text-align: justify;
+}
+
 .skills h2 {
     color: black;
     text-shadow:
